@@ -1,0 +1,23 @@
+P12,structure,beyond degrees,mean edges
+0.0,assortative,assortative,335.2
+0.05,boundary (P12 = P22),assortative,435.6
+0.1,core-periphery,assortative,538.8
+0.15,core-periphery,assortative,640.6
+0.15811388300841897,core-periphery,nothing (degree-explained),654.8
+0.2,core-periphery,disassortative,743.6
+0.25,core-periphery,disassortative,847.2
+0.3,core-periphery,disassortative,954.8
+0.35,core-periphery,disassortative,1057.4
+0.4,core-periphery,disassortative,1160.4
+0.45,core-periphery,disassortative,1272.8
+0.5,boundary (P12 = P11),disassortative,1374.0
+0.55,disassortative,disassortative,1485.6
+0.6,disassortative,disassortative,1587.6
+0.65,disassortative,disassortative,1706.6
+0.7,disassortative,disassortative,1822.0
+0.75,disassortative,disassortative,1917.0
+0.8,disassortative,disassortative,2024.2
+0.85,disassortative,disassortative,2129.2
+0.9,disassortative,disassortative,2222.0
+0.95,disassortative,disassortative,2342.2
+1.0,disassortative,disassortative,2435.2
